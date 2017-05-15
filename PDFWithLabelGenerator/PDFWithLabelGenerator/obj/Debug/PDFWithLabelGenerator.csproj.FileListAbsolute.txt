@@ -1,0 +1,8 @@
+c:\users\roma\documents\visual studio 2015\Projects\PDFWithLabelGenerator\PDFWithLabelGenerator\bin\Debug\PDFWithLabelGenerator.exe.config
+c:\users\roma\documents\visual studio 2015\Projects\PDFWithLabelGenerator\PDFWithLabelGenerator\bin\Debug\PDFWithLabelGenerator.exe
+c:\users\roma\documents\visual studio 2015\Projects\PDFWithLabelGenerator\PDFWithLabelGenerator\bin\Debug\PDFWithLabelGenerator.pdb
+c:\users\roma\documents\visual studio 2015\Projects\PDFWithLabelGenerator\PDFWithLabelGenerator\bin\Debug\itextsharp.dll
+c:\users\roma\documents\visual studio 2015\Projects\PDFWithLabelGenerator\PDFWithLabelGenerator\bin\Debug\itextsharp.xml
+c:\users\roma\documents\visual studio 2015\Projects\PDFWithLabelGenerator\PDFWithLabelGenerator\obj\Debug\PDFWithLabelGenerator.csprojResolveAssemblyReference.cache
+c:\users\roma\documents\visual studio 2015\Projects\PDFWithLabelGenerator\PDFWithLabelGenerator\obj\Debug\PDFWithLabelGenerator.exe
+c:\users\roma\documents\visual studio 2015\Projects\PDFWithLabelGenerator\PDFWithLabelGenerator\obj\Debug\PDFWithLabelGenerator.pdb

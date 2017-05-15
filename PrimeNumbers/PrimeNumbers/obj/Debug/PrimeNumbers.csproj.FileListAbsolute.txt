@@ -1,0 +1,5 @@
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

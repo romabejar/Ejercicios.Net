@@ -1,0 +1,6 @@
+c:\users\roma\documents\visual studio 2015\Projects\XMLSpliter\XMLSpliter\bin\Debug\XMLSpliter.exe.config
+c:\users\roma\documents\visual studio 2015\Projects\XMLSpliter\XMLSpliter\bin\Debug\XMLSpliter.exe
+c:\users\roma\documents\visual studio 2015\Projects\XMLSpliter\XMLSpliter\bin\Debug\XMLSpliter.pdb
+c:\users\roma\documents\visual studio 2015\Projects\XMLSpliter\XMLSpliter\obj\Debug\XMLSpliter.csprojResolveAssemblyReference.cache
+c:\users\roma\documents\visual studio 2015\Projects\XMLSpliter\XMLSpliter\obj\Debug\XMLSpliter.exe
+c:\users\roma\documents\visual studio 2015\Projects\XMLSpliter\XMLSpliter\obj\Debug\XMLSpliter.pdb

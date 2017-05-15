@@ -1,0 +1,9 @@
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbersTest\bin\Debug\PrimeNumbersTest.dll
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbersTest\bin\Debug\PrimeNumbersTest.pdb
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbersTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbersTest\bin\Debug\PrimeNumbers.exe
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbersTest\bin\Debug\PrimeNumbers.pdb
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbersTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbersTest\obj\Debug\PrimeNumbersTest.csprojResolveAssemblyReference.cache
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbersTest\obj\Debug\PrimeNumbersTest.dll
+C:\Users\Roma\Documents\Visual Studio 2015\Projects\PrimeNumbers\PrimeNumbersTest\obj\Debug\PrimeNumbersTest.pdb

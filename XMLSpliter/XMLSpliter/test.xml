@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Transaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GeneralData Ref="000421" Type="FacturaComercial" Date="2010-08-12" Currency="EUR" BeginDate="2010-01-11" EndDate="2010-01-12" TaxIncluded="false" OnlyArchive="false">
+	<DigitallyCertified>true</DigitallyCertified>
+  </GeneralData>
+  <Supplier CustomerSupplierID="" CIF="XXXXXXX" Company="PROVEEDOR TURÍSTICO" Address="C\BALMES" City="BARCELONA" PC="08006" Province="BARCELONA" Country="ESP" />
+  <Client SupplierClientID="Ref1ClientePruebaTuristico" CIF="ASDFG" Company="Cliente Prueba Turistico" />
+  <Customers>
+    <Customer Country="ESP" Address="PA" City="MONTTO-SVQ" PC="41089" Province="SEVILLA" Customer="Estab Marsans 1"/>
+    </Customers>
+  <ProductList>
+	<Product SupplierSKU="H01" CustomerSKU="0045610000206" Item="HABITACION" Qty="1.00" MU="Unidades" UP="74.77" Total="74.77">
+  	<Taxes>
+    	<Tax Type="IVA" Rate="7.00" Amount="5.23" />
+  	</Taxes>
+  	<ServicesData>
+    	<ServiceData SupplierClientID="Ref1ClientePruebaTuristico" SupplierID="C400" ClientSupplierID="" SupplierName="Estab Prov Prueba Turistico 1" Pax="CRC1" BeginDate="2010-01-11" EndDate="2010-01-12" PaxNumber="1" AdultsNumber="1"/>
+  	</ServicesData>
+<References>
+<Reference DNRef="pepe" DNRefDate="2011-02-04"/>
+</References>
+	</Product>
+	<Product SupplierSKU="D02" CustomerSKU="0045610000206" Item="DESAYUNO BUFFET" Qty="1.00" MU="Unidades" UP="13.08" Total="13.08">
+  	<Taxes>
+    	<Tax Type="IVA" Rate="7.00" Amount="0.92" />
+  	</Taxes>
+  	<ServicesData>
+    	<ServiceData SupplierClientID="Ref1ClientePruebaTuristico" SupplierID="C400" ClientSupplierID="" SupplierName="Estab Prov Prueba Turistico 1" Pax="CRC2" BeginDate="2010-01-11" EndDate="2010-01-12" PaxNumber="1" AdultsNumber="1" />
+  	</ServicesData>
+	</Product>
+	<Product SupplierSKU="C07" CustomerSKU="0045610000206" Item="COMISION" Qty="1.00" MU="Unidades" UP="-13.18" Total="-13.18">
+  	<Taxes>
+    	<Tax Type="IVA" Rate="7.00" Amount="-0.92" />
+  	</Taxes>
+  	<ServicesData>
+    	<ServiceData SupplierClientID="Ref1ClientePruebaTuristico" SupplierID="C400" ClientSupplierID="" SupplierName="Estab Prov Prueba Turistico 1" Pax="CRC3" BeginDate="2010-01-11" EndDate="2010-01-12" PaxNumber="1" AdultsNumber="1"/>
+  	</ServicesData>
+	</Product>
+  </ProductList>
+  <TaxSummary>
+	<Tax Type="IVA" Rate="7.00" Base="74.67" Amount="5.23" />
+  </TaxSummary>
+  <TotalSummary GrossAmount="74.67" NetAmount="74.67" Discounts="0.00" SubTotal="74.67" Tax="5.23" Total="79.90" />
+</Transaction>
